@@ -1,4 +1,4 @@
-### 
+###
 
 ```
 0 配置公钥
@@ -16,5 +16,13 @@
     (1)解除和远程仓库的关联  git remote reomve origin
     (2) git remote add origin git@github.com:lanlianhua231986/2109.git 和远程进行关联
         git push -u origin master  把代码推送到远程
+
+4 组长已经把项目推送到远程了
+  组长需要搭建路由,如果有人需要添加路由的话，给组长说一下
+
+5 成员开发
+  拉一下代码 git clone 项目的仓库地址
+  git checkout -b self  // 切除一个新分支
 ```
 
+测试一下
